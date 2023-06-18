@@ -30,13 +30,13 @@
     
     
     <!-- ***** Header Area Start ***** -->
-    <header class="header-area header-sticky">
+    <header class="header-area header-sticky" style="background: orange;">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <nav class="main-nav">
+                    <nav class="main-nav" >
                         <!-- ***** Logo Start ***** -->
-                        <a class="navbar-brand" style="line-height: 73px; color:red" asp-area="" asp-controller="Home" asp-action="Index">
+                        <a class="navbar-brand animate-character" style="line-height: 73px;" asp-area="" asp-controller="Home" asp-action="Index">
                             FPTBook
                         </a>
                         <!-- ***** Logo End ***** -->
@@ -54,11 +54,11 @@
         </div>
     </header>
     <!-- ***** Header Area End ***** -->
-    <div style = "margin-top:100px; margin-bottom:100px; margin-left: 50px; margin-right: 50px;">
+    <div style = "min-height:600px; margin-top:100px; margin-bottom:100px; margin-left: 50px; margin-right: 50px;">
     @RenderBody()
     </div>
     <!-- ***** Footer Start ***** -->
-    <footer>
+    <footer style="background: orange;">
         <div class="container" style="color: white">
             &copy; 2022 - FPTBook - <a asp-area="" asp-controller="Home" asp-action="Privacy">Help</a>
         </div>
