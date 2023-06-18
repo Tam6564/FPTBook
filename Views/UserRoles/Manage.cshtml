@@ -24,10 +24,10 @@
             <div asp-validation-summary="All" class="text-danger"></div>
         </div>
         <div class="card-footer">
-            <input type="submit" value="Update" class="btn btn-primary"
+            <input type="submit" value="Update" class="btn btn-success"
                    style="width:auto" />
-            <a asp-action="EditUser" asp-route-id="@ViewBag.userId"
-               class="btn btn-primary" style="width:auto">Cancel</a>
+            <a asp-controller="UserRoles" asp-action="index"
+               class="btn btn-danger" style="width:auto">Cancel</a>
         </div>
     </div>
 </form>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HQ6TaNRg/mW7bHhm4xNaEB8HrXFyP0ARZ76zv+Ajc9Y=",
+  "Hash": "74XpJ+tAsflicyw/rWOG37rgJ7479162CtSSATBuNak=",
   "Source": "FPTBook",
   "BasePath": "_content/FPTBook",
   "Mode": "Default",
@@ -3024,6 +3024,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\z3838697245579_3df475bb2373253c402ba09b54e96394.jpg"
+    },
+    {
+      "Identity": "D:\\First year\\FPTBook\\wwwroot\\uploads\\z4190580505696_edbe37c743cc0bad8c0af6909517e21a.jpg",
+      "SourceId": "FPTBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\First year\\FPTBook\\wwwroot\\",
+      "BasePath": "_content/FPTBook",
+      "RelativePath": "uploads/z4190580505696_edbe37c743cc0bad8c0af6909517e21a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\z4190580505696_edbe37c743cc0bad8c0af6909517e21a.jpg"
     }
   ]
 }

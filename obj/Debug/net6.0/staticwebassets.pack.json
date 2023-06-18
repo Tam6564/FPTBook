@@ -465,6 +465,10 @@
       "PackagePath": "staticwebassets\\uploads\\z3838697245579_3df475bb2373253c402ba09b54e96394.jpg"
     },
     {
+      "Id": "D:\\First year\\FPTBook\\wwwroot\\uploads\\z4190580505696_edbe37c743cc0bad8c0af6909517e21a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z4190580505696_edbe37c743cc0bad8c0af6909517e21a.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FPTBook.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
