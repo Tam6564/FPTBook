@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "74XpJ+tAsflicyw/rWOG37rgJ7479162CtSSATBuNak=",
+  "Hash": "DdPwxgcVxPuTbAw0Yjn8hGDdLhk6q3m3cKVpj0mUnJg=",
   "Source": "FPTBook",
   "BasePath": "_content/FPTBook",
   "Mode": "Default",
@@ -2837,6 +2837,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\FPTBook (1).png"
+    },
+    {
+      "Identity": "D:\\First year\\FPTBook\\wwwroot\\uploads\\Group 5.png",
+      "SourceId": "FPTBook",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\First year\\FPTBook\\wwwroot\\",
+      "BasePath": "_content/FPTBook",
+      "RelativePath": "uploads/Group 5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Group 5.png"
     },
     {
       "Identity": "D:\\First year\\FPTBook\\wwwroot\\uploads\\header.png",
